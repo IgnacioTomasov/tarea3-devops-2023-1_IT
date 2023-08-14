@@ -13,3 +13,6 @@
 Debes entregar tu tarea como un pull request que incluya el archivo `docker-compose.yml` y el script Selenium.
 
 El script selenium *debe estar en algún lenguaje de programación*, no se aceptará la exportación del proyecto desde Selenium IDE.
+
+### Instrucciones, para llamar al test:
+pytest testing/     
